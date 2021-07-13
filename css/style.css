@@ -24,3 +24,12 @@
 [class*="offset"]{
     border: 0;
 }
+.col-left, .col-right {
+    width: 25%;
+}
+.col-center {
+    width: 50%;
+}
+.half {
+    width: 50%;
+}
