@@ -17,3 +17,10 @@
 .inner-row {
     margin: 3px;
 }
+.empty {
+    width: 100%;
+    height: 10px;
+}
+[class*="offset"]{
+    border: 0;
+}
