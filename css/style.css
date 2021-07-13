@@ -3,3 +3,17 @@
     text-align: center;
     line-height: 30px;
 }
+[class*="col-"]{
+    min-height: 30px;
+    background-color: cornflowerblue;
+    border: 1px solid white;
+}
+[class*="inner"]{
+    min-height: 25px;
+    background-color: tomato;
+    border: 1px  solid cornflowerblue;
+      
+}
+.inner-row {
+    margin: 3px;
+}

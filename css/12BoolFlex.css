@@ -11,12 +11,10 @@
 .row{
     display: flex;
     flex-wrap: wrap;
+    
 }
-[class*="col-"]{
-    min-height: 30px;
-    background-color: cornflowerblue;
-    border: 1px solid white;
-}
+
+
 /*colonne*/
 .col-xs-1{
     flex-basis: calc((100% / 12) * 1);
